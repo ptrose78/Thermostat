@@ -62,9 +62,11 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
+		<Item Name="Adjust Temperature.vi" Type="VI" URL="../Adjust Temperature.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Manual Override.ctl" Type="VI" URL="../controls/Manual Override.ctl"/>
 		<Item Name="System Status Displays.ctl" Type="VI" URL="../controls/System Status Displays.ctl"/>
+		<Item Name="Temp Check.ctl" Type="VI" URL="../controls/Temp Check.ctl"/>
 		<Item Name="User Settings.ctl" Type="VI" URL="../controls/User Settings.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
