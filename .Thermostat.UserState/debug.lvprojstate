@@ -1,5 +1,90 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Find Interval.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="846"/>
+          <SignalUID value="137"/>
+          <SignalUID value="648"/>
+          <SignalUID value="1224"/>
+          <SignalUID value="114"/>
+          <SignalUID value="1299"/>
+          <SignalUID value="1492"/>
+          <SignalUID value="190"/>
+          <SignalUID value="916"/>
+          <SignalUID value="54"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Input User Settings.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="241"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Main.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2297"/>
+          <SignalUID value="1129"/>
+          <SignalUID value="5186"/>
+          <SignalUID value="4553"/>
+          <SignalUID value="3186"/>
+          <SignalUID value="1002"/>
+          <SignalUID value="3637"/>
+          <SignalUID value="5265"/>
+          <SignalUID value="3939"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Message Queue.lvlib:Dequeue Message.vi:3320001">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="583"/>
+          <SignalUID value="410"/>
+          <SignalUID value="587"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Message Queue.lvlib:Enqueue Message (Single).vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1174"/>
+          <SignalUID value="1148"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>

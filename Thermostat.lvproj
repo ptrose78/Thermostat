@@ -63,8 +63,16 @@
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Adjust Temperature.vi" Type="VI" URL="../Adjust Temperature.vi"/>
+		<Item Name="Deadband Check.vi" Type="VI" URL="../Deadband Check.vi"/>
+		<Item Name="Find Interval.vi" Type="VI" URL="../Find Interval.vi"/>
+		<Item Name="Global Settings.ctl" Type="VI" URL="../controls/Global Settings.ctl"/>
+		<Item Name="Increment Time.vi" Type="VI" URL="../Increment Time.vi"/>
+		<Item Name="Input User Settings.vi" Type="VI" URL="../Input User Settings.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Manual Override.ctl" Type="VI" URL="../controls/Manual Override.ctl"/>
+		<Item Name="Minutes to Start Time.vi" Type="VI" URL="../Minutes to Start Time.vi"/>
+		<Item Name="Schedule Interval.ctl" Type="VI" URL="../controls/Schedule Interval.ctl"/>
+		<Item Name="Start Time to Minutes.vi" Type="VI" URL="../Start Time to Minutes.vi"/>
 		<Item Name="System Status Displays.ctl" Type="VI" URL="../controls/System Status Displays.ctl"/>
 		<Item Name="Temp Check.ctl" Type="VI" URL="../controls/Temp Check.ctl"/>
 		<Item Name="User Settings.ctl" Type="VI" URL="../controls/User Settings.ctl"/>
