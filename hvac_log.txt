@@ -1,0 +1,3 @@
+Simulated Time	Old Status	New Status	Current Temp
+6:30	Idle	Heating	65.500000	
+8:0	Heating	Idle	68.000000	

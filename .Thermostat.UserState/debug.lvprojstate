@@ -20,6 +20,15 @@
           <SignalUID value="190"/>
           <SignalUID value="916"/>
           <SignalUID value="54"/>
+          <SignalUID value="753"/>
+          <SignalUID value="446"/>
+          <SignalUID value="1486"/>
+          <SignalUID value="301"/>
+          <SignalUID value="535"/>
+          <SignalUID value="643"/>
+          <SignalUID value="1767"/>
+          <SignalUID value="2042"/>
+          <SignalUID value="176"/>
         </Generic>
       </Probes>
     </VI>
@@ -83,6 +92,18 @@
         <Generic>
           <SignalUID value="1174"/>
           <SignalUID value="1148"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Start Time to Minutes.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
         </Generic>
       </Probes>
     </VI>

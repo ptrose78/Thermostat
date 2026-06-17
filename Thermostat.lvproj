@@ -64,6 +64,7 @@
 		</Item>
 		<Item Name="Adjust Temperature.vi" Type="VI" URL="../Adjust Temperature.vi"/>
 		<Item Name="Deadband Check.vi" Type="VI" URL="../Deadband Check.vi"/>
+		<Item Name="File Data.ctl" Type="VI" URL="../controls/File Data.ctl"/>
 		<Item Name="Get Active Targets.vi" Type="VI" URL="../Get Active Targets.vi"/>
 		<Item Name="Global Settings.ctl" Type="VI" URL="../controls/Global Settings.ctl"/>
 		<Item Name="Increment Time.vi" Type="VI" URL="../Increment Time.vi"/>
