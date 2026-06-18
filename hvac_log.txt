@@ -1,3 +1,9 @@
-Simulated Time	Old Status	New Status	Current Temp
-6:30	Idle	Heating	65.500000	
-8:0	Heating	Idle	68.000000	
+Simulated Time	Old Status	New Status	Current Temps
+:30	Idle	Heating	65.500000	
+11:0	Heating	Idle	74.000000	
+11:15	Idle	Cooling	73.500000	
+13:30	Cooling	Idle	69.500000	
+18:0	Idle	Heating	70.000000	
+22:0	Heating	Idle	77.500000	
+22:15	Idle	Cooling	77.000000	
+2:0	Cooling	Idle	69.500000	
